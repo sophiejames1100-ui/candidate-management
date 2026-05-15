@@ -1,10 +1,4 @@
-buildscript {
-    ext {
-        compose_version = "1.5.4"
-        room_version = "2.6.1"
-        coroutines_version = "1.7.3"
-    }
-}
+// Ext removed
 
 plugins {
     id("com.android.application") version "8.2.0" apply false
